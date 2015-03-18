@@ -1,1 +1,1 @@
-f617cffa-75ad-460d-93ad-c93a337b5a3c 1MiB= bucket=rg-git-annex-test chunk= datacenter=US embedcreds=no encryption=none host=s3.amazonaws.com name=cloud port=80 storageclass=STANDARD type=S3 timestamp=1426705284.67167s
+f617cffa-75ad-460d-93ad-c93a337b5a3c 1MiB= bucket=rg-git-annex-test chunk= datacenter=US embedcreds=no encryption=none host=s3.amazonaws.com name=cloud port=80 storageclass=STANDARD type=S3 timestamp=1426718985.774378s
